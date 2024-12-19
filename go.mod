@@ -1,3 +1,3 @@
-module github.com/cc1a2b/jshunter
+module github.com/nazmul-ethi/jshunter
 
 go 1.22.5
