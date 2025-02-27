@@ -72,3 +72,16 @@ JShunter is released under MIT license. See [LICENSE](https://github.com/cc1a2b/
 
 <a href="https://www.buymeacoffee.com/cc1a2b" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+
+
+
+```
+1. git clone https://github.com/nazmul-ethi/jshunter.git
+2. cd jshunter
+3. ls (You will see some file like go.mod, jshunter.go, LICENSE README.md)
+4. go build -o jshunter jshunter.go
+5. sudo cp jshunter /usr/bin
+
+
+DONE
+```
